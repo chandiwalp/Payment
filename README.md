@@ -8,5 +8,6 @@ Instead of accessing payment cards each time, user may load his/her account with
 to make transfers. Another part of payment system is Forex trading. This allows user to buy/sell different currencies
 at market rate. 
 
-Project Tech - Java, JavaFX
+Project Tech - Java
+Frontend - JavaFX
 Database - MySQL
